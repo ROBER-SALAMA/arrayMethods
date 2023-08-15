@@ -9,3 +9,6 @@ metodos del array
 
 # shift()
 `El método shift() de JavaScript elimina el primer elemento de un array y devuelve el elemento eliminado. El método shift() no tiene parámetros.`
+
+# unshift()
+`El método unshift() en JavaScript agrega uno o más elementos al principio de un array y devuelve el nuevo array. El método es una función de mutación, lo que significa que cambia el array en el que se llama.`
