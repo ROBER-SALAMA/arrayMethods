@@ -12,3 +12,6 @@ metodos del array
 
 # unshift()
 `El método unshift() en JavaScript agrega uno o más elementos al principio de un array y devuelve el nuevo array. El método es una función de mutación, lo que significa que cambia el array en el que se llama.`
+
+# concat()
+`El método concat() en JavaScript combina dos o más arrays en un solo array. El método es una función de mutación, lo que significa que cambia el array en el que se llama.`
