@@ -6,3 +6,6 @@ metodos del array
 
 # pop():
 `El método pop() de JavaScript elimina el último elemento de un array y devuelve el elemento eliminado. El método pop() no tiene parámetros.`
+
+# shift()
+`El método shift() de JavaScript elimina el primer elemento de un array y devuelve el elemento eliminado. El método shift() no tiene parámetros.`
